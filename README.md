@@ -17,6 +17,8 @@
 
 - Terminando meus estudos na Trybe ( https://www.betrybe.com/ )
 
+- Estudando com a Udemy
+
 ## Meus Status -
 
 ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=cacobribeiro&theme=synthwave&show_icons=true)  
