@@ -29,11 +29,17 @@
 
 ### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Meu foco no momento é... </p>
 
+<p align="center" >
 - Aprender Python...
-
+<br/>
+<br/>
 - Deixar o meu codigo o mais performático possivel...
-
+<br/>
+<br/>
 - Por ultimo e não menos importante, arruma um emprego.
+<br/>
+<br/>
+</p>
 
 ---
 
