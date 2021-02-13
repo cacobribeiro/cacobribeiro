@@ -85,9 +85,7 @@
 
 ## <p align="center" > Meus Hobbies - </p>
 
-<img src="bmwM3.png" align="right"  width="50%"/>
-
-### - Carros
+### - Carros <img src="bmwM3.png" align="right"  width="30%"/>
 
 ### - Surf
 
