@@ -16,13 +16,11 @@
 ### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou... </p>
 
 <p align="center" >
-
 - Procurando por uma oportunidade...
-
+<br/>
 - Terminando meus estudos na Trybe ( https://www.betrybe.com/ )
-
+<br/>
 - Estudando com a Udemy
-
 </p>
 
 ---
