@@ -15,6 +15,8 @@
 
 - Procurando por uma oportunidade...
 
+- Terminando meus estudos na Trybe ( https://www.betrybe.com/ )
+
 ## Meus Status -
 
 ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=cacobribeiro&theme=synthwave&show_icons=true)  
