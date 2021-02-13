@@ -18,7 +18,9 @@
 <p align="center" >
 - Procurando por uma oportunidade...
 <br/>
+<br/>
 - Terminando meus estudos na Trybe ( https://www.betrybe.com/ )
+<br/>
 <br/>
 - Estudando com a Udemy
 </p>
