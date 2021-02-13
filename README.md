@@ -1,4 +1,4 @@
-# cacobribeiro
+# Hello World!!
 
 <p align="center" >
   <samp>
@@ -9,8 +9,11 @@
   </samp>
   <br/>
   <br/>
-  <br/>
 </p>
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou...
+
+- Procurando por uma oportunidade...
 
 ## Meus Status -
 
