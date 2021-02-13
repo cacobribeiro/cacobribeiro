@@ -11,8 +11,6 @@
   <br/>
 </p>
 
----
-
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou...
 
 - Procurando por uma oportunidade...
@@ -21,8 +19,6 @@
 
 - Estudando com a Udemy
 
----
-
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Meu foco no momento é...
 
 - Aprender Python...
@@ -30,8 +26,6 @@
 - Deixar o meu codigo o mais performático possivel...
 
 - Por ultimo e não menos importante, arruma um emprego.
-
----
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Contatos:
 
