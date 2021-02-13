@@ -13,7 +13,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou...
+### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou... </p>
 
 - Procurando por uma oportunidade...
 
@@ -23,7 +23,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Meu foco no momento é...
+### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Meu foco no momento é... </p>
 
 - Aprender Python...
 
@@ -33,7 +33,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Contatos...
+### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Contatos... </p>
 
 <p align="center">
   
@@ -47,7 +47,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Algumas Linguagens & Frameworks ...
+### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Algumas Linguagens & Frameworks ... </p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
@@ -65,7 +65,7 @@
 
 ---
 
-## Meus Status -
+## <p align="center" > Meus Status - </p>
 
 ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=cacobribeiro&theme=synthwave&show_icons=true)  
 </br>
