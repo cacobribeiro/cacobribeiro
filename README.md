@@ -85,8 +85,8 @@
 
 ## <p align="center" > Meus Hobbies - </p>
 
-### - Carros <img src="bmwM3.png" align="right"  width="30%"/>
+### - Carros <img src="bmwM3.png" align="right" width="30% style="margin:6px 4px"/>
 
-### - Surf <img src="bmwM3.png" align="right"  width="30%"/>
+### - Surf
 
 ### - Jogos Online
