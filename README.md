@@ -27,8 +27,6 @@
 
 ---
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
-
 ### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Meu foco no momento é... </p>
 
 <p align="center" >
@@ -82,3 +80,11 @@
 </br>
 
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacobribeiro&theme=tokyonight&show_icons=true" />
+
+---
+
+## <p align="center" > Meus Hobbies - </p>
+
+<img src="bmwM3.png" align="right"  width="30%"/>
+
+- Carros
