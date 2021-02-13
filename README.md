@@ -9,7 +9,6 @@
   </samp>
   <br/>
   <br/>
-</p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou...
 
@@ -18,6 +17,8 @@
 - Terminando meus estudos na Trybe ( https://www.betrybe.com/ )
 
 - Estudando com a Udemy
+
+</p>
 
 ## Meus Status -
 
