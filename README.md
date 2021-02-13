@@ -87,8 +87,8 @@
 
 <img src="bmwM3.png" align="right"  width="30%" style="margin:6px 4px"/>
 
-### - Carros
+### - <em>Carros</em>
 
-### - Surf
+### - <em>Surf</em>
 
-### - Jogos Online
+### - <em>Jogos Online</em>
