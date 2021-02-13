@@ -15,11 +15,15 @@
 
 ### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou... </p>
 
+<p align="center" >
+
 - Procurando por uma oportunidade...
 
 - Terminando meus estudos na Trybe ( https://www.betrybe.com/ )
 
 - Estudando com a Udemy
+
+</p>
 
 ---
 
@@ -36,7 +40,6 @@
 ### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Contatos... </p>
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/cacobribeiro/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
