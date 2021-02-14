@@ -77,6 +77,7 @@
 ## <p align="center" > Meus Status - </p>
 
 <p align="center">
+<br/>
 
 ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=cacobribeiro&theme=synthwave&show_icons=true)  
 <br/>
