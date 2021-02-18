@@ -33,10 +33,10 @@
 - Continuar aprendendo Python...
 <br/>
 <br/>
-- Deixar o meu codigo o mais performático possivel...
+- Deixar o meu código o mais performático possível...
 <br/>
 <br/>
-- Por ultimo e não menos importante, arrumar um emprego.
+- Por último e não menos importante, arrumar um emprego.
 <br/>
 <br/>
 </p>
