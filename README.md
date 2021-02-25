@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    Olá, eu sou o <em>Caio Ribeiro</em>. Sou desenvolvedor Fullstack Júnior... 
+    Olá, eu sou o <em>Caio Ribeiro</em>. Sou desenvolvedor Fullstack Júnior. 
   <br/> Minha linguagem principal é o Javascript e vivo uma paixão pelo ReactJs.  
     <br/> Sempre em busca de um novo desafio!
       <br/>
@@ -13,10 +13,10 @@
 
 ---
 
-### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou... </p>
+### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou </p>
 
 <p align="center" >
-- Procurando por uma oportunidade...
+- Procurando por uma oportunidade.
 <br/>
 <br/>
 - Terminando meus estudos na Trybe ( https://www.betrybe.com/ )
@@ -27,13 +27,13 @@
 
 ---
 
-### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Meu foco no momento é... </p>
+### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Meu foco no momento é </p>
 
 <p align="center" >
-- Continuar aprendendo Python...
+- Continuar aprendendo Python.
 <br/>
 <br/>
-- Deixar o meu código o mais performático possível...
+- Deixar o meu código o mais performático possível.
 <br/>
 <br/>
 - Por último e não menos importante, arrumar um emprego.
@@ -43,7 +43,7 @@
 
 ---
 
-### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Contatos... </p>
+### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Contatos </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cacobribeiro/">
@@ -51,12 +51,13 @@
   </a>
   <a href="mailto:cacobribeiro@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+    cacobribeiro@gmail.com
   </a>
 </p>
 
 ---
 
-### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Algumas Linguagens & Frameworks ... </p>
+### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Algumas Linguagens & Frameworks </p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
@@ -87,7 +88,7 @@
 </p>
 <br/>
 
-## <p align="center" > Meus Hobbies - </p>
+## <p align="center" > Meus Hobbies & passa tempos </p>
 
 <img src="bmwM3.png" align="right"  width="30%" style="margin:6px 4px"/>
 
