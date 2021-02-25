@@ -75,7 +75,7 @@
 
 ---
 
-## <p align="center" > Meus Status - </p>
+## <p align="center" > Meus status - </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cacobribeiro&theme=synthwave&show_icons=true" />
@@ -88,7 +88,7 @@
 </p>
 <br/>
 
-## <p align="center" > Meus Hobbies & passa tempos </p>
+## <p align="center" > Meus hobbies & passa tempos </p>
 
 <img src="bmwM3.png" align="right"  width="30%" style="margin:6px 4px"/>
 
