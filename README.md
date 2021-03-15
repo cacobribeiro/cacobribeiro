@@ -16,13 +16,10 @@
 ### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> No momento estou </p>
 
 <p align="center" >
-- Procurando por uma oportunidade.
+- Trabalhando em uma startup chamada Triibo.
 <br/>
 <br/>
-- Terminando meus estudos na Trybe ( https://www.betrybe.com/ )
-<br/>
-<br/>
-- Estudando com a Udemy
+- Estudando com a Udemy, sempre.
 </p>
 
 ---
@@ -30,13 +27,13 @@
 ### <p align="center" > <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Meu foco no momento é </p>
 
 <p align="center" >
-- Continuar aprendendo Python.
+- Continuar aprendendo de tudo o que posso.
 <br/>
 <br/>
 - Deixar o meu código o mais performático possível.
 <br/>
 <br/>
-- Por último e não menos importante, arrumar um emprego.
+- Por último e não menos importante, conseguir agregar o máximo possivel na Triibo.
 <br/>
 <br/>
 </p>
