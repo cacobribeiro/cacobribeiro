@@ -1,4 +1,4 @@
-# <p align="center" ><img src='./caioribeiro.gif' width='200px'/></p>
+# <p align="center" ><img src='./caioribeiro.gif' width='500px' heigth='200px'/></p>
 
 <p align="center" >
   <samp>
