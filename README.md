@@ -19,7 +19,7 @@
 - Trabalhando em uma startup chamada Triibo.
 <br/>
 <br/>
-- Estudando com a Udemy, sempre.
+- Estudando Go e em breve Elixir também.
 </p>
 
 ---
