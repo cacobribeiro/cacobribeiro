@@ -19,7 +19,6 @@
 - Trabalhando em uma startup chamada Triibo.
 <br/>
 <br/>
-- Estudando Go e em breve Elixir também.
 </p>
 
 ---
